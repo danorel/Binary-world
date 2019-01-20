@@ -8,7 +8,6 @@
 class Library{
 public:
     void add_binary_numbers(char *, int, char *, int, char *, int *);
-    int round(double *);
     void show_result(char *, int);
 private:
     void reverse_binary(char *, int);
